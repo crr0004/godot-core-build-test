@@ -1,0 +1,1 @@
+/home/chris/dev/source/godot/core/io/image_loader.h

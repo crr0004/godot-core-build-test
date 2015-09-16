@@ -1,0 +1,1 @@
+/home/chris/dev/source/godot/core/math/vector3.h

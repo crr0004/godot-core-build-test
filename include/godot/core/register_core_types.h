@@ -1,0 +1,1 @@
+/home/chris/dev/source/godot/core/register_core_types.h
