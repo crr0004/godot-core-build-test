@@ -1,2 +1,2 @@
-# godot-heightmap
-Initital Test for creating a heightmap for godot using the godot core
+# godot-core-build-test
+Initial test for building against godot's core
